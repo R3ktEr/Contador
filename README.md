@@ -1,1 +1,1 @@
-# Contador
+# Cronometro
